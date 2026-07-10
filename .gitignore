@@ -1,0 +1,31 @@
+# Virtual Environment
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Database
+backend/attendify.db
+*.db
+
+# Captured Images
+backend/captured_faces/
+
+# Dataset
+dataset/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# Android Studio
+.idea/
+.gradle/
+local.properties
+
+# Build Files
+build/
+app/build/
